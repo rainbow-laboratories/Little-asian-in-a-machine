@@ -9,5 +9,8 @@
         <module name="LAIM" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="LAIM" target="1.5" />
+    </bytecodeTargetLevel>
   </component>
 </project>
